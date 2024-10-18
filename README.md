@@ -46,4 +46,3 @@ tech_stack = {
 Feel free to reach out if you want to collaborate on a project, discuss tech, or just say hi!
 
 - 📧 Email: mhabbasi.02@gmail.com
-- 
